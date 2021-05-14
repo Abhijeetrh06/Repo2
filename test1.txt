@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 74FE-EA09
-
- Directory of C:\Users\Administrator\Desktop\Project\Our Project
-
-15-05-2021  12:10 AM    <DIR>          .
-15-05-2021  12:10 AM    <DIR>          ..
-15-05-2021  12:10 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  69,730,566,144 bytes free
+changes in this file
